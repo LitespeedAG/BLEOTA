@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BLEOTA/static/css/main.bdfb0247.css",
-    "main.js": "/BLEOTA/static/js/main.30bd5442.js",
+    "main.css": "/BLEOTA/static/css/main.d906c13b.css",
+    "main.js": "/BLEOTA/static/js/main.a1126bc9.js",
     "static/js/738.15fbac76.chunk.js": "/BLEOTA/static/js/738.15fbac76.chunk.js",
     "static/js/223.0c57dafa.chunk.js": "/BLEOTA/static/js/223.0c57dafa.chunk.js",
     "static/js/22.f0ada666.chunk.js": "/BLEOTA/static/js/22.f0ada666.chunk.js",
@@ -16,8 +16,8 @@
     "static/js/377.42de1614.chunk.js": "/BLEOTA/static/js/377.42de1614.chunk.js",
     "service-worker.js": "/BLEOTA/service-worker.js",
     "index.html": "/BLEOTA/index.html",
-    "main.bdfb0247.css.map": "/BLEOTA/static/css/main.bdfb0247.css.map",
-    "main.30bd5442.js.map": "/BLEOTA/static/js/main.30bd5442.js.map",
+    "main.d906c13b.css.map": "/BLEOTA/static/css/main.d906c13b.css.map",
+    "main.a1126bc9.js.map": "/BLEOTA/static/js/main.a1126bc9.js.map",
     "738.15fbac76.chunk.js.map": "/BLEOTA/static/js/738.15fbac76.chunk.js.map",
     "223.0c57dafa.chunk.js.map": "/BLEOTA/static/js/223.0c57dafa.chunk.js.map",
     "22.f0ada666.chunk.js.map": "/BLEOTA/static/js/22.f0ada666.chunk.js.map",
@@ -32,7 +32,7 @@
     "377.42de1614.chunk.js.map": "/BLEOTA/static/js/377.42de1614.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdfb0247.css",
-    "static/js/main.30bd5442.js"
+    "static/css/main.d906c13b.css",
+    "static/js/main.a1126bc9.js"
   ]
 }
